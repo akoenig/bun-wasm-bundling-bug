@@ -1,0 +1,19 @@
+{
+  "name": "bun-wasm-bundling-bug",
+  "module": "src/index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/react": "^18.2.22",
+    "react-devtools-core": "^4.28.0",
+    "bun-types": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "ink": "^4.4.1",
+    "pastel": "^2.0.2",
+    "react": "^18.2.0",
+    "zod": "^3.22.2"
+  }
+}

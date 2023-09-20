@@ -2,6 +2,8 @@
 
 Related Issue [oven-sh/bun#2034](https://github.com/oven-sh/bun/issues/2034).
 
+Tested on `v1.0.3 (canary - 37edd5a6e389265738e89265bcbdf2999cb81a49)`.
+
 ```bash
 bun install
 ```
